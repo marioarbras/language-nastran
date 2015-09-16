@@ -1,0 +1,14 @@
+{
+  "name": "language-nastran",
+  "version": "0.1.0",
+  "description": "Atom language support for NASTRAN",
+  "keywords": [
+  ],
+  "repository": "https://github.com/marioarbras/language-nastran",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
